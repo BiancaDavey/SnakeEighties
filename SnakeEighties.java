@@ -47,7 +47,7 @@ public class SnakeEighties extends javax.swing.JFrame {
         setSize(GAME_WIDTH, GAME_HEIGHT);
         setLocation(50, 50);
         setResizable(false);
-        setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.toFront();
         this.requestFocus();
         GamePanel newGame = new GamePanel();
