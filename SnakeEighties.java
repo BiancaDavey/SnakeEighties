@@ -1,8 +1,3 @@
-/*
-TODO: 3. add readme.md. 
-TODO: 3. add exit button.
-*/
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
