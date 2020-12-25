@@ -15,7 +15,7 @@ SnakeEighties is a program providing an eighties, synthwave themed Java Swing ve
 
 ## Installation
 
-Java API is required to run this program.
+Java is required to run this program.
 
 ## Usage
 
