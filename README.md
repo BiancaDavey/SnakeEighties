@@ -7,7 +7,7 @@ SnakeEighties is a program providing an eighties, synthwave themed Java Swing ve
 * Themed GUI
 * Standard key settings enable user to easily move snake object
 * Consistent movement speed set for the snake object
-* Program generates food objects at random locations on the game panel for snake object to consume
+* Program generates food objects at random locations on the game panel for snake to consume
 * Snake object expands with each food object reached
 * Program detects snake object movement beyond boundary
 * Game Over function halts game loop and provides game over notification with custom themed font
@@ -29,6 +29,11 @@ Java is required to run this program.
 
 ```
 java SnakeEighties
+```
+[![Snake-Eighties-Start-game.png](https://i.postimg.cc/YqXm9VFJ/Snake-Eighties-Start-game.png)](https://postimg.cc/nCDLS30k)
+
+```
+Consume food objects to grow the snake
 ```
 [![Snake-Eighties.png](https://i.postimg.cc/SsWMxxLr/Snake-Eighties.png)](https://postimg.cc/5Y20P1RY)
 ```
