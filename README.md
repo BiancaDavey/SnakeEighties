@@ -19,21 +19,23 @@ Java is required to run this program.
 
 ## Usage
 
-```java
-# Compile and launch the program to initiate the snake game.
-javac SnakeEighties.java
-java SnakeEighties  
-```
+1. Compile the program using the command `javac SnakeEighties.java`.
+2. Launch the program using the command `java SnakeEighties`.
+3. Use the `up`, `down`, `left` and `right` keys to control the movement of the snake.
+4. Guide the snake into the colored square objects to consume and grow.
+5. Guiding the snake into the game borders will end the game.
 
 ## Usage example
 
 ```
 java SnakeEighties
-*TODO: add image.
-# Control the snake using the arrow keys.
-# Exit the game using the exit button.
-
 ```
+[![Snake-Eighties.png](https://i.postimg.cc/SsWMxxLr/Snake-Eighties.png)](https://postimg.cc/5Y20P1RY)
+```
+Exit the game using the exit button upon a game over event
+```
+[![Snake-Eighties-Game-Over.png](https://i.postimg.cc/2yGLn9KL/Snake-Eighties-Game-Over.png)](https://postimg.cc/T5yP60GT)
+
 
 ## Author
 
