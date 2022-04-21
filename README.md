@@ -1,6 +1,6 @@
 # SnakeEighties
 
-SnakeEighties is a program providing an eighties, synthwave themed Java Swing version of the classic snake game.
+SnakeEighties is a program providing an eighties themed Java Swing version of the classic snake game.
 
 ## Features
 
@@ -46,4 +46,4 @@ Exit the game using the exit button upon a game over event
 
 Bianca Davey 
 
-biancamdavey@icloud.com
+biancamdavey91@gmail.com
